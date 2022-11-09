@@ -16,5 +16,6 @@
         <page name='optional Chaining'/>
         <page name='enum'/>
         <page name='struct'/>
+        <page name='higher_order_function'/>
     </pages>
 </playground>
