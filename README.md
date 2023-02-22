@@ -74,6 +74,13 @@ Each task you submit to a DispatchQueue is a DispatchWorkItem
 
 
 ------------------------------------------------------------------------------------------------------------------
+###Abstract class :
+Minimum one method is implemented
+
+
+
+
+------------------------------------------------------------------------------------------------------------------
 
 Markdown Syntax
 Heading	# H1
