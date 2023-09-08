@@ -17,5 +17,9 @@
         <page name='enum'/>
         <page name='struct'/>
         <page name='higher_order_function'/>
+        <page name='Chain_of_responsibility'/>
+        <page name='DispatchQueue'/>
+        <page name='Combine'/>
+        <page name='Thread'/>
     </pages>
 </playground>
